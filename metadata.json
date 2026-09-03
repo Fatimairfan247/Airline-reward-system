@@ -1,0 +1,6 @@
+{
+  "name": "AeroVoyage - Airline Reservation & SkyRewards",
+  "description": "Modern airline reservation and skywards rewards platform. Search and compare flights with cash or miles, interactive seat selection, boarding passes, user booking management, and real-time flight status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
